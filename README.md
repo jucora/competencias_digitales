@@ -1,5 +1,9 @@
 <h1 align="center">🖥️ Proyecto Final Competencias Digitales</h1>
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/LOGO_CORPORACI%C3%93N_IBEROAMERICANA.png">
+</p>
+
 ## :pencil: Descripción
 
 Este proyecto corresponde a la actividad final del curso Competencias Digitales de la universidad Iberoamericana.
@@ -27,6 +31,6 @@ y que todo el sistema responsivo se ha creado manualmente.
 
 En caso de encontrar algúna falla, por favor reportarla en el siguiente enlace. Click [here](https://github.com/jucora/competencias_digitales/issues)
 
-## Soporte
+## Apoyo
 
 Siéntete libre de regalarme una estrella :star:. Muchas gracias!

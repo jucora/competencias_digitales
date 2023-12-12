@@ -13,7 +13,7 @@ y que todo el sistema responsivo se ha creado manualmente.
 
 El sitio web expone todos los temas vistos durante el curso 🙂
 
-# :globe_with_meridians: [Click Aquí](https://raw.githack.com/jucora/competencias_digitales/main/index.html):point_left:
+# :globe_with_meridians: [Mira El Sitio Aquí](https://raw.githack.com/jucora/competencias_digitales/main/index.html):point_left:
 
 ## :computer: Tecnologías
 
@@ -31,7 +31,7 @@ El sitio web expone todos los temas vistos durante el curso 🙂
 
 ## Reportar Fallas
 
-En caso de encontrar algúna falla, por favor reportarla en el siguiente enlace. Click [here](https://github.com/jucora/competencias_digitales/issues)
+En caso de encontrar algúna falla, por favor reportarla en el siguiente enlace. Click [Aquí](https://github.com/jucora/competencias_digitales/issues)
 
 ## Apoyo
 

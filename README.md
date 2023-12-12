@@ -8,8 +8,10 @@
 
 Este proyecto corresponde a la actividad final del curso Competencias Digitales de la universidad Iberoamericana.
 
-Consiste en un sitio web creado con HTML y CSS, con el manejo de media queries para dar la funcionalidad responsiva. Es importante aclarar que no se han usado frameworks,
+Consiste en un sitio web creado con HTML y CSS, con el manejo de media queries para dar la funcionalidad responsiva. Es importante aclarar que no se han usado frameworks, 
 y que todo el sistema responsivo se ha creado manualmente.
+
+El sitio web expone todos los temas vistos durante el curso 🙂
 
 # :globe_with_meridians: [Click Aquí](https://raw.githack.com/jucora/competencias_digitales/main/index.html):point_left:
 
